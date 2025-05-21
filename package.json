@@ -1,0 +1,24 @@
+{
+  "name": "pizza-shop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,css}\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewvu/drews-pizza-shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drewvu/drews-pizza-shop/issues"
+  },
+  "homepage": "https://github.com/drewvu/drews-pizza-shop#readme",
+  "description": "",
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
+}
